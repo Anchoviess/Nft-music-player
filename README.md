@@ -12,3 +12,6 @@
 
 <img width="1440" alt="Screen Shot 2022-07-28 at 4 13 46 PM" src="https://user-images.githubusercontent.com/97990379/181652557-23bb33d1-8a41-409d-a3ad-e5112288ea9c.png">
 
+### Solidity
+
+Using an ipfs array to export the music and picture files into metadata is innovative; we then use this json stringified information to create smart contracts that contain this information that is now available in the blockchain, our application is able to play the music files on a sticky web player, and now were working on connecting the metamask wallet, then people are able to purchase the nft directly from us not just openSea 
